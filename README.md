@@ -16,10 +16,10 @@ Hi, I'm Srijan, a `programmer` and . I love solving doubts of people, interactin
 ```javascript
 const Srijan = {
   OS = [MANJARO, WINDOWS]  
-  code: [JS, HTML, CSS, Python],
-  tools: [VIM, CMD, GIT]
-  Interest: [AI, WebDev, AOC]
-  challenge: "Learn Everything New Every Day!"
+  code= [JS, HTML, CSS, Python],
+  tools= [VIM, CMD, GIT]
+  Interest= [AI, WebDev, AOC]
+  challenge= "Learn Everything New Every Day!"
 }
 ```
 ```Socials```
