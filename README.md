@@ -18,7 +18,7 @@ const Srijan = {
   OS: [MANJARO, WINDOWS],  
   code: [JS, HTML, CSS, Python],
   tools: [VIM, CMD, GIT],
-  Interest: [AI, WebDev, AOC]
+  Interest: [AI, WebDev, AOC],
   challenge: "Learn Everything New Every Day!"
 }
 ```
