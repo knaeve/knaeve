@@ -1,5 +1,5 @@
 <h1>Hey, Guys!<img src="https://c.tenor.com/4P02Cdfd26MAAAAj/baby-yoda-so-cute.gif" width="50"></h1>
-<img align='right' src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif" width="241">
+<img align='right' src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif" width="250" height = "250">
 
 <h2><b> about me!! </b><br></h2> 
 
@@ -17,7 +17,7 @@ Hi, I'm Srijan, a `programmer` and . I love solving doubts of people, interactin
 const Srijan = {
   OS = [MANJARO, WINDOWS]  
   code: [JS, HTML, CSS, Python],
-  tools: [Vim, CMD, GIT]
+  tools: [VIM, CMD, GIT]
   Interest: [AI, WebDev, AOC]
   challenge: "Learn Everything New Every Day!"
 }
