@@ -22,10 +22,11 @@ const Srijan = {
   challenge: "Learn Everything New Every Day!"
 }
 ```
+
 ```Socials```
 
-[<img align="left" alt="Discord: jerbob#1337" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/discord.svg" />][discord]
+[<img align="left" alt="Discord: Srijan_coder#8712" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/discord.svg" />][discord]
 
-[discord]: "https://discordapp.com/users/140605665772175361"
+[discord]: https://discordapp.com/users/737860440075403406
 
-<br> <h1> You know me! :D </h1> 
+<br> <h1> You know me! :D </h1>
