@@ -1,5 +1,5 @@
 <h1>Hey, Guys!<img src="https://c.tenor.com/4P02Cdfd26MAAAAj/baby-yoda-so-cute.gif" width="50"></h1>
-<img align='right' src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif" width="230" height = "230">
+<img align='right' src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif" width="230px" height = "230px">
 
 <h2><b> about me!! </b><br></h2> 
 
@@ -24,11 +24,8 @@ const Srijan = {
 ```
 ```Socials```
 
-<img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" height = "40" width = "30" alt="Star Badge"/>
+[<img align="left" alt="Discord: jerbob#1337" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/discord.svg" />][discord]
 
-<a href="https://discord.gg/2etPk4pyQ2"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a><br> 
+[discord]: "https://discordapp.com/users/140605665772175361"
 
-```
-That's it! You know me now! :D
-```
----
+<br> <h1> You know me! :D </h1> 
