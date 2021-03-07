@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=Srijandev&label=PROFILE+VIEWS)
 
 
-Hi, I'm Srijan, a `programmer` and I love solving doubts of people, interacting with people and most important hearing songs while coding something!. Currently, I am learning `Ethical Hacking` and exploring `Python` projects!...
+Hi, I'm Srijan, a `programmer` and I love solving doubts of people, interacting with people and most important hearing songs while coding something!. Currently, I am learning `Ethical Hacking` and exploring `Python` projects! . . .
 
 - Currently at `127.0.0.1` cuz of pandemic and just doing  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - Wanna Interact? See my Socials linked below and ping me while messaging! 
