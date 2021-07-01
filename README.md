@@ -15,7 +15,7 @@ Hi, I'm Srijan, a `programmer` and I love helping people, interacting with peopl
 
 ```javascript
 const Srijan = {
-  OS: [MANJARO, WINDOWS],  
+  OS: [WINDOWS],  
   code: [JS, HTML, CSS, Python],
   tools: [VIM, CMD, GIT],
   Interest: [AI, WebDev, AOC],
