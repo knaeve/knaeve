@@ -17,8 +17,8 @@ Hi, I'm Srijan, a `programmer` and I love helping people, interacting with peopl
 const Srijan = {
   OS: [WINDOWS],  
   code: [JS, HTML, CSS, Python],
-  tools: [VIM, CMD, GIT],
-  Interest: [AI, WebDev, AOC],
+  tools: [VIM, CMD, GIT, WSL],
+  interest: [AI, WebDev, AOC],
   challenge: "Learn Something New Every Day!"
 }
 ```
