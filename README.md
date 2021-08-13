@@ -23,12 +23,12 @@ const Srijan = {
 }
 ```
 
-```Socials```
+<h2>Socials</h2>
 
 [<img align="left" alt="Discord: Srijan_coder#8712" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/discord.svg" />][discord]
 
 [discord]: https://discordapp.com/users/737860440075403406
-
-<br> <h1> You know me! :D </h1>
+<br>
+<h1> You know me! :D </h1>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srijandev&layout=compact&card_width=443&show_icons=true&show_icons=true&theme=calm&hide_border=true"/><br>
