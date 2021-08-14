@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=Srijandev&label=PROFILE+VIEWS)
 
 
-Hi, I'm Srijan, a `programmer` and I love helping people, interacting with people and most important hearing songs while coding something!. Currently, I am learning `Ethical Hacking` and exploring `Python` projects! . . .
+I'm Srijan aka TortuousPython, a self-taught programmer and student from India. Currently, I am exploring `Python` projects! and diving into them.
 
 - Currently at `127.0.0.1` cuz of pandemic and just doing  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - Wanna Interact? See my Socials linked below and ping me while messaging! 
@@ -18,7 +18,7 @@ const Srijan = {
   OS: [WINDOWS],  
   code: [JS, HTML, CSS, Python],
   tools: [VIM, CMD, GIT, WSL],
-  interest: [AI, WebDev, AOC],
+  interest: [APIs, WebDev, AOC],
   challenge: "Learn Something New Every Day!"
 }
 ```
