@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=Srijandev&label=PROFILE+VIEWS)
 
 
-I'm Srijan aka TortuousPython, a self-taught programmer and student from India. Currently, I am exploring `Python` projects! and diving into them.
+I'm Srijan aka TortuousPython, a self-taught programmer and student from India. Currently, I am exploring Python projects! and diving into them.
 
 - Currently at `127.0.0.1` cuz of pandemic and just doing  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - Wanna Interact? See my Socials linked below and ping me while messaging! 
