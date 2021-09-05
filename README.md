@@ -17,7 +17,7 @@ I'm Srijan aka TortuousPython, a self-taught programmer and student from India. 
 const Srijan = {
   OS: [WINDOWS],  
   code: [JS, HTML, CSS, Python],
-  tools: [VIM, CMD, GIT, WSL],
+  tools: [DoomEmacs, CMD, GIT, WSL],
   interest: [APIs, WebDev, AOC],
   challenge: "Learn Something New Every Day!"
 }
