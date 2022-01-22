@@ -19,7 +19,7 @@ const Srijan = {
   code: [JS, HTML, CSS, Python],
   tools: [NVIM, CMD, GIT, WSL],
   interest: [APIs, WebDev, AOC],
-  challenge: "Learn Something New Every Day!"
+  challenge: "grind every second"
 }
 ```
 
