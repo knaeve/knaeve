@@ -3,8 +3,6 @@
 
 <h2><b> about me!! </b><br></h2> 
 
-![](https://komarev.com/ghpvc/?username=Srijandev&label=PROFILE+VIEWS)
-
 
 I'm Srijan aka TortuousPython, a self-taught programmer and student from India. Currently, I am exploring Python projects! and diving into them.
 
